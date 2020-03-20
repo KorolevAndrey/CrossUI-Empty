@@ -34,9 +34,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_i",
-                            "-b":"-c_k",
-                            "-c":"-c_m"
+                            "-a":"-c_o",
+                            "-b":"-c_q",
+                            "-c":"-c_s"
                         },
                         "_serialId":"-h_e",
                         "_colWidth":"8em",
@@ -50,9 +50,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_j",
-                            "-b":"-c_l",
-                            "-c":"-c_n"
+                            "-a":"-c_p",
+                            "-b":"-c_r",
+                            "-c":"-c_t"
                         },
                         "_serialId":"-h_f",
                         "_colWidth":"8em",
@@ -65,42 +65,30 @@ xui.Class('App', 'xui.Module',{
                     {
                         "cells":[
                             {
-                                "value":"1С РГС"
+                                "value":""
                             },
                             {
-                                "value":"0"
+                                "value":""
                             }
                         ]
                     },
                     {
                         "cells":[
                             {
-                                "value":"LanDocs"
+                                "value":""
                             },
                             {
-                                "value":"5"
+                                "value":""
                             }
                         ]
                     },
                     {
                         "cells":[
                             {
-                                "value":"Консультанты"
+                                "value":""
                             },
                             {
-                                "value":"16"
-                            }
-                        ],
-                        "sub":[
-                            {
-                                "cells":[
-                                    {
-                                        "value":"Иванов Иван Иванович"
-                                    },
-                                    {
-                                        "value":"10"
-                                    }
-                                ]
+                                "value":""
                             }
                         ]
                     }
