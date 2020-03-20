@@ -30,74 +30,36 @@ xui.Class('App', 'xui.Module',{
                 .setHeader([
                     {
                         "id":"col1",
+                        "caption":"Команда",
+                        "type":"input",
+                        "width":"8em",
                         "_cells":{
-                            "-a":"-c_a",
-                            "-b":"-c_e",
-                            "-c":"-c_i",
-                            "-d":"-c_m",
-                            "-e":"-c_q"
+                            "-a":"-c_q",
+                            "-b":"-c_s",
+                            "-c":"-c_a",
+                            "-c-b":"-c_c"
                         },
-                        "_serialId":"-h_a",
+                        "_serialId":"-h_e",
                         "_colWidth":"8em",
                         "_cellWidth":"8em",
-                        "width":"8em",
-                        "_hcellheight":"2em",
-                        "type":"input",
-                        "caption":"col1",
+                        "_hcellheight":"1.8333333333333333em",
                         "_region":2
                     },
                     {
                         "id":"col2",
+                        "caption":"Заявок",
+                        "type":"input",
+                        "width":"8em",
                         "_cells":{
-                            "-a":"-c_b",
-                            "-b":"-c_f",
-                            "-c":"-c_j",
-                            "-d":"-c_n",
-                            "-e":"-c_r"
+                            "-a":"-c_r",
+                            "-b":"-c_t",
+                            "-c":"-c_b",
+                            "-c-b":"-c_d"
                         },
-                        "_serialId":"-h_b",
+                        "_serialId":"-h_f",
                         "_colWidth":"8em",
                         "_cellWidth":"8em",
-                        "width":"8em",
-                        "_hcellheight":"2em",
-                        "type":"input",
-                        "caption":"col2",
-                        "_region":2
-                    },
-                    {
-                        "id":"col3",
-                        "_cells":{
-                            "-a":"-c_c",
-                            "-b":"-c_g",
-                            "-c":"-c_k",
-                            "-d":"-c_o",
-                            "-e":"-c_s"
-                        },
-                        "_serialId":"-h_c",
-                        "_colWidth":"8em",
-                        "_cellWidth":"8em",
-                        "width":"8em",
-                        "_hcellheight":"2em",
-                        "type":"input",
-                        "caption":"col3",
-                        "_region":2
-                    },
-                    {
-                        "id":"col4",
-                        "_cells":{
-                            "-a":"-c_d",
-                            "-b":"-c_h",
-                            "-c":"-c_l",
-                            "-d":"-c_p",
-                            "-e":"-c_t"
-                        },
-                        "_serialId":"-h_d",
-                        "_colWidth":"8em",
-                        "_cellWidth":"8em",
-                        "width":"8em",
-                        "_hcellheight":"2em",
-                        "type":"input",
-                        "caption":"col4",
+                        "_hcellheight":"1.8333333333333333em",
                         "_region":2
                     }
                 ])
@@ -105,93 +67,52 @@ xui.Class('App', 'xui.Module',{
                     {
                         "cells":[
                             {
-                                "value":"A1"
+                                "value":"1С РГС"
                             },
                             {
-                                "value":"B1"
-                            },
-                            {
-                                "value":"C1"
-                            },
-                            {
-                                "value":"D1"
+                                "value":"0"
                             }
                         ]
                     },
                     {
                         "cells":[
                             {
-                                "value":"A2"
+                                "value":"LanDocs"
                             },
                             {
-                                "value":"B2"
-                            },
-                            {
-                                "value":"C2"
-                            },
-                            {
-                                "value":"D2"
+                                "value":"5"
                             }
                         ]
                     },
                     {
                         "cells":[
                             {
-                                "value":"A3"
+                                "value":"Консультанты"
                             },
                             {
-                                "value":"B3"
-                            },
-                            {
-                                "value":"C3"
-                            },
-                            {
-                                "value":"D3"
-                            }
-                        ],
-                        "sub":[
-                            {
-                                "cells":[
-                                    "A4",
-                                    "B4",
-                                    "C4",
-                                    "D4"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "iniFold":false,
-                        "cells":[
-                            {
-                                "value":"A5"
-                            },
-                            {
-                                "value":"B5"
-                            },
-                            {
-                                "value":"C5"
-                            },
-                            {
-                                "value":"D5"
+                                "value":"16"
                             }
                         ],
                         "sub":[
                             {
                                 "cells":[
                                     {
-                                        "value":"A6"
+                                        "value":"Иванов Иван Иванович"
                                     },
                                     {
-                                        "value":"B6"
-                                    },
-                                    {
-                                        "value":"C6"
-                                    },
-                                    {
-                                        "value":"D6"
+                                        "value":"10"
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "cells":[
+                            {
+                                "value":""
+                            },
+                            {
+                                "value":""
                             }
                         ]
                     }
