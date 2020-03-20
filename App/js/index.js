@@ -34,9 +34,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_e",
-                            "-b":"-c_g",
-                            "-c":"-c_i"
+                            "-a":"-c_q",
+                            "-b":"-c_s",
+                            "-c":"-c_a"
                         },
                         "_serialId":"-h_e",
                         "_colWidth":"8em",
@@ -50,9 +50,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_f",
-                            "-b":"-c_h",
-                            "-c":"-c_j"
+                            "-a":"-c_r",
+                            "-b":"-c_t",
+                            "-c":"-c_b"
                         },
                         "_serialId":"-h_f",
                         "_colWidth":"8em",
@@ -101,7 +101,18 @@ xui.Class('App', 'xui.Module',{
                                         "value":"10"
                                     }
                                 ]
-                            }                            
+                            },
+                            {
+                                "cells":[
+                                    {
+                                        "value":"Петров Петр Петрович"
+                                    },
+                                    {
+                                        "value":"6"
+                                    }
+                                ]
+                            }
+                            
                         ]
                     }
                 ])
