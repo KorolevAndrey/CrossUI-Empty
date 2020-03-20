@@ -101,16 +101,6 @@ xui.Class('App', 'xui.Module',{
                                         "value":"10"
                                     }
                                 ]
-                            },
-                            {
-                                "cells":[
-                                    {
-                                        "value":"Иванов1 Иван Иванович"
-                                    },
-                                    {
-                                        "value":"6"
-                                    }
-                                ]
                             }                            
                         ]
                     }
