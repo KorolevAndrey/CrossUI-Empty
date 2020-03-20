@@ -88,9 +88,6 @@ xui.Class('App', 'xui.Module',{
                                 "value":"Консультанты"
                             },
                             {
-                                "value":"10"
-                            },
-                            {
                                 "value":"16"
                             }
                         ],
