@@ -34,9 +34,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_q",
-                            "-b":"-c_s",
-                            "-c":"-c_a"
+                            "-a":"-c_c",
+                            "-b":"-c_e",
+                            "-c":"-c_g"
                         },
                         "_serialId":"-h_e",
                         "_colWidth":"8em",
@@ -50,9 +50,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_r",
-                            "-b":"-c_t",
-                            "-c":"-c_b"
+                            "-a":"-c_d",
+                            "-b":"-c_f",
+                            "-c":"-c_h"
                         },
                         "_serialId":"-h_f",
                         "_colWidth":"8em",
@@ -88,6 +88,9 @@ xui.Class('App', 'xui.Module',{
                                 "value":"Консультанты"
                             },
                             {
+                                "value":"10"
+                            },
+                            {
                                 "value":"16"
                             }
                         ],
@@ -101,18 +104,7 @@ xui.Class('App', 'xui.Module',{
                                         "value":"10"
                                     }
                                 ]
-                            },
-                            {
-                                "cells":[
-                                    {
-                                        "value":"Петров Петр Петрович"
-                                    },
-                                    {
-                                        "value":"6"
-                                    }
-                                ]
                             }
-                            
                         ]
                     }
                 ])
