@@ -34,9 +34,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_c",
-                            "-b":"-c_e",
-                            "-c":"-c_g"
+                            "-a":"-c_i",
+                            "-b":"-c_k",
+                            "-c":"-c_m"
                         },
                         "_serialId":"-h_e",
                         "_colWidth":"8em",
@@ -50,9 +50,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_d",
-                            "-b":"-c_f",
-                            "-c":"-c_h"
+                            "-a":"-c_j",
+                            "-b":"-c_l",
+                            "-c":"-c_n"
                         },
                         "_serialId":"-h_f",
                         "_colWidth":"8em",
