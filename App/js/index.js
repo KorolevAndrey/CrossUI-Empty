@@ -34,10 +34,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_q",
-                            "-b":"-c_s",
-                            "-c":"-c_a",
-                            "-c-b":"-c_c"
+                            "-a":"-c_e",
+                            "-b":"-c_g",
+                            "-c":"-c_i"
                         },
                         "_serialId":"-h_e",
                         "_colWidth":"8em",
@@ -51,10 +50,9 @@ xui.Class('App', 'xui.Module',{
                         "type":"input",
                         "width":"8em",
                         "_cells":{
-                            "-a":"-c_r",
-                            "-b":"-c_t",
-                            "-c":"-c_b",
-                            "-c-b":"-c_d"
+                            "-a":"-c_f",
+                            "-b":"-c_h",
+                            "-c":"-c_j"
                         },
                         "_serialId":"-h_f",
                         "_colWidth":"8em",
@@ -103,27 +101,6 @@ xui.Class('App', 'xui.Module',{
                                         "value":"10"
                                     }
                                 ]
-                            },
-                            {
-                                "cells":[
-                                    {
-                                        "value":"Петров Петр Петрович"
-                                    },
-                                    {
-                                        "value":"6"
-                                    }
-                                ]
-                            }
-                            
-                        ]
-                    },
-                    {
-                        "cells":[
-                            {
-                                "value":""
-                            },
-                            {
-                                "value":""
                             }
                         ]
                     }
